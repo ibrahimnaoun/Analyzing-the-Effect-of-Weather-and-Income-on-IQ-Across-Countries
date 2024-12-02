@@ -1,0 +1,1 @@
+# Analyzing-the-Effect-of-Weather-and-Income-on-IQ-Across-Countries
