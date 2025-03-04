@@ -37,7 +37,3 @@ The **R-squared values**:
 ## Conclusion
 Based on the analysis, **temperature** was a stronger predictor of IQ than **income**, although both factors did contribute to explaining the variance in IQ levels. The results suggest that environmental factors, like temperature, may play a more significant role in shaping IQ scores globally than economic factors like income.
 
-## Next Steps
-To improve the model:
-- Consider incorporating additional features, such as **education expenditure** or **healthcare spending**.
-- Explore more complex models, such as **non-linear regression** or **machine learning** techniques, to capture more intricate relationships.
